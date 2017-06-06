@@ -2,7 +2,7 @@
     <img alt="BookStore" src="https://static1.squarespace.com/static/513e45cee4b022a7a496df13/t/52151f40e4b0aa8504d31056/1432709894112/Connection+BookStore+Logo.jpg?format=500w" width="400" />
 
 </p>                                                                          
-																			            Website Cửa Hàng Sách
+																			          <p align="center">  Website Cửa Hàng Sách </p>
                                        
 I. Hoạt động nghiệp vụ của cửa hàng
 
