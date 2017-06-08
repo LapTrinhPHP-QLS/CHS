@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+th{
+	background: #999;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+.end{
+	background: #999;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
