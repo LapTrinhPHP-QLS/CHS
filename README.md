@@ -2,7 +2,7 @@
     <img alt="BookStore" src="https://static1.squarespace.com/static/513e45cee4b022a7a496df13/t/52151f40e4b0aa8504d31056/1432709894112/Connection+BookStore+Logo.jpg?format=500w" width="400" />
 
 </p>                                                                          
-																			          <p align="center">  Website Cửa Hàng Sách </p>
+																			          <h1 align="center">  Website Cửa Hàng Sách </h1>
                                        
 <h1> Hoạt động nghiệp vụ của cửa hàng</h1>
 
@@ -58,7 +58,7 @@ Các yêu cầu của khách hàng về hệ thống là :
 	<blockquote>
 	<p>Website đựng xây dựng bằng ngôn ngữ lập trình <strong>PHP</strong> sử dụng hệ quản trị CSDL <strong>MySQL</strong>.</p>
 	</blockquote>
-	<p=align="center">
+	<p>
 			<img src="http://php.net/images/logos/php-logo.svg" width="10%">
 			<img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" width="10%">
 		</p>
