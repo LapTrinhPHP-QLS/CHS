@@ -56,8 +56,13 @@ Các yêu cầu của khách hàng về hệ thống là :
 		<li>Thư mục <code>modules/left</code>: chứa các tập tin menu bên trái của website</li>
 		<li>Thư mục <code>modules/right</code>: chứa các tập tin chi tiết  website</li>
 		<li>Thư mục <code>/style</code>: chứa các file css<br>
-		<li>Thư mục <code>admincp/modules/quanly</code>: chứa các tập tin chi tiết  website</li>
-		Ta cũng có thể đổi tên của thư mục application tùy ý. Sau khi đổi tên, cần thiết lập tên mới cho biến <strong>$application_folder</strong> trong tập tin index.php</li>
+		<li>Thư mục <code>admincp/modules/quanlychietsach</code>: chứa các tập tin như lietke.php, main.php, sua.php, them.php, xuly.php  </li>
+		<li>Thư mục <code>admincp/modules/quanlychitietsach/lietke.php</code>: Hiển thị danh sách sách hiện có</li>
+		<li>Thư mục <code>admincp/modules/quanlychitietsach/main.php</code>: Khu vực hiển thị nội dung thêm,sửa bên trái và danh sách sách bên phải.</li>
+		<li>Thư mục <code>admincp/modules/quanlychitietsach/sua.php</code>: Hiển thị giao diện sửa của sách</li>
+		<li>Thư mục <code>admincp/modules/quanlychitietsach/them.php</code>: Hiển thị giao diện thêm của sách</li>
+		<li>Thư mục <code>admincp/modules/quanlychitietsach/xuly.php</code>: Hàm xử lý thêm, sửa, xóa và truy vấn sql</li>
+		
 	</ul>
 
 
