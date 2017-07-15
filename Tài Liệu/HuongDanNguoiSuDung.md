@@ -13,7 +13,9 @@
  <p>Ta cũng có thể đổi tên của database tùy ý. Sau khi đổi tên, cần thiết lập tên lại chuỗi kết nối trong tập tin config.php</p>
  <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/kn.png"  width="100%">
-<p>Sau khi hoàn thành các bước trên :  Mở trình duyệt lên, gõ vào thanh địa chỉ http://localhost/QLSach/ sẽ xuất hiện giao diện đăng nhập</p>	
+<p>Sau khi hoàn thành các bước trên :  Mở trình duyệt lên, gõ vào thanh địa chỉ http://localhost/QLSach/ sẽ xuất hiện giao diện đăng nhập</p>
+<p>Tên đăng nhập: admin</p>
+<p>Mật khẩu: admin</p>
 
 <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/ql.png"  width="150%">
