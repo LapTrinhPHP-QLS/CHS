@@ -35,6 +35,11 @@ Các yêu cầu của khách hàng về hệ thống là :
 <!--  -->
 <h1>Ngôn ngữ lập trình</h1>
 <!--  -->
+<p>
+	<blockquote>
+	<p>Website đựng xây dựng bằng ngôn ngữ lập trình <strong>PHP</strong> sử dụng hệ quản trị CSDL <strong>MySQL</strong>.</p>
+	</blockquote>
+
 <h1>Tài liệu hướng dẫn sử dụng </h1>
 <!--  -->
 <h1>Tài liệu cho nhà phát triển</h1>
