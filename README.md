@@ -45,7 +45,7 @@ Các yêu cầu của khách hàng về hệ thống là :
 	</p>
 	<p>Tập tin index.php tiếp nhận các yêu cầu từ phía client và chuyển các yêu cầu này cho hệ thống xử lý.</p>
 	<p>
-		<a href="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/tochuc.png" width="80%"></a>
+		<a href="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/tochuc.png"></a></p>
 	<ul>
 		<li>Thư mục <code>modules</code>: Dành cho lập trình viên, các tập tin được lập trình cho ứng dụng sẽ lưu trong thư mục này.</li>
 		<li>Thư mục <code>modules/config.php</code>: Chứa các tập tin cấu hình hệ thống</li>
