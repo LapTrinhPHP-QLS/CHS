@@ -49,4 +49,5 @@ Các yêu cầu của khách hàng về hệ thống là :
 <h1>Danh sách lỗi</h1>
 <!--  -->
 <h1>Danh cho cộng tác viên</h1>
+<p>Cộng tác viên muốn đóng góp và tham gia phát triển website có thể liên hệ trực tiếp với nhóm tác giả để được hướng dẫn cụ thể.</p>
 
