@@ -3,7 +3,7 @@
 2.	Một số công cụ lập trình như : Sublime Text 3, Dreamweaver cs6
 3.	Tải mã nguồn về máy mở thư mục cài đặt xampp -> đưa vào htdocs</p>
  <p align="center">
-			<img src="ht.jpg" width="500">
+			<img src="images/ht.jpg" width="500">
 			
 		</p>
 <p>4.	Thêm cơ sở dữ liệu vào mysql:
