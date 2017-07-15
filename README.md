@@ -36,6 +36,21 @@ Các yêu cầu của khách hàng về hệ thống là :
 <p>
 		Được xây dựng thiết kế theo mô hình 3 layer, nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm<a target="_blank" href="https://techtalk.vn/mo-hinh-3-lop-co-gi-hay.html">. Tìm hiểu mô hình 3 layer trong PHP?</a> Ngoài ra, vận dụng mô hình này trong thiết kế, giúp tách biệt các tập tin giao diện với các tập tin xử lý dữ liệu, nâng cao khả năng quản lý và dễ bảo trì.
 	</p>
+	<p>Tập tin index.php tiếp nhận các yêu cầu từ phía client và chuyển các yêu cầu này cho hệ thống xử lý.</p>
+	<ul>
+		<li>Thư mục <code>modules</code>: Dành cho lập trình viên, các tập tin được lập trình cho ứng dụng sẽ lưu trong thư mục này.</li>
+		<li>Thư mục <code>modules/config.php</code>: Chứa các tập tin cấu hình hệ thống</li>
+		<li>Thư mục <code>application/controllers</code>: chứa các lớp controller</li>
+		<li>Thư mục <code>application/errors</code>: chứa các tập tin lỗi</li>
+		<li>Thư mục <code>application/helpers</code>: chứa các hàm tiện ích do người dùng định nghĩa</li>
+		<li>Thư mục <code>application/hooks</code>: chứa các tập tin để mở rộng mã nguồn CodeIgniter</li>
+		<li>Thư mục <code>application/language</code>: chứa các tập tin ngôn ngữ</li>
+		<li>Thư mục <code>application/libraries</code>: chứa thư viện cho người dùng dùng định nghĩa</li>
+		<li>Thư mục <code>application/models</code>: chứa các lớp model</li>
+		<li>Thư mục <code>/style</code>: chứa các file css<br>
+		Ta cũng có thể đổi tên của thư mục application tùy ý. Sau khi đổi tên, cần thiết lập tên mới cho biến <strong>$application_folder</strong> trong tập tin index.php</li>
+	</ul>
+
 
 <h1>Ngôn ngữ lập trình</h1>
 <!--  -->
@@ -46,10 +61,23 @@ Các yêu cầu của khách hàng về hệ thống là :
 
 <h1>Tài liệu hướng dẫn sử dụng </h1>
 <!--  -->
+<p>
+		Tài liệu hướng dẫn của người dùng. <a href="" target="_blank">Xem tại đây</a>.
+	</p>
+
 <h1>Tài liệu cho nhà phát triển</h1>
 <!--  -->
+<p>
+	Tài liệu phát triển <a href="https://www.youtube.com/watch?v=iCUV3iv9xOs&list=PL442FA2C127377F07" target="_blank">Xem tại đây</a>
+	</p>
+
 <h1>Tài liệu thiết kế</h1>
 <!--  -->
+<p>
+Tài liệu thiết kế : <a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
+  <p>  <a href="https://www.w3schools.com/pHp/default.asp" target="_blank">Xem tại đây</a>.
+	</p>
+ 
 <h1>Danh sách lỗi</h1>
 <!--  -->
 <h1>Danh cho cộng tác viên</h1>
