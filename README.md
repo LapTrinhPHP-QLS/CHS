@@ -33,6 +33,10 @@ Các yêu cầu của khách hàng về hệ thống là :
 
 <h1>Tổ chức mã nguồn</h1>
 <!--  -->
+<p>
+		Được xây dựng thiết kế theo mô hình 3 layer, nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm<a target="_blank" href="https://techtalk.vn/mo-hinh-3-lop-co-gi-hay.html">. Tìm hiểu mô hình 3 layer trong PHP?</a> Ngoài ra, vận dụng mô hình này trong thiết kế, giúp tách biệt các tập tin giao diện với các tập tin xử lý dữ liệu, nâng cao khả năng quản lý và dễ bảo trì.
+	</p>
+
 <h1>Ngôn ngữ lập trình</h1>
 <!--  -->
 <p>
