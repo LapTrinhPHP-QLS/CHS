@@ -40,13 +40,13 @@ Các yêu cầu của khách hàng về hệ thống là :
 	<ul>
 		<li>Thư mục <code>modules</code>: Dành cho lập trình viên, các tập tin được lập trình cho ứng dụng sẽ lưu trong thư mục này.</li>
 		<li>Thư mục <code>modules/config.php</code>: Chứa các tập tin cấu hình hệ thống</li>
-		<li>Thư mục <code>application/controllers</code>: chứa các lớp controller</li>
-		<li>Thư mục <code>application/errors</code>: chứa các tập tin lỗi</li>
-		<li>Thư mục <code>application/helpers</code>: chứa các hàm tiện ích do người dùng định nghĩa</li>
-		<li>Thư mục <code>application/hooks</code>: chứa các tập tin để mở rộng mã nguồn CodeIgniter</li>
-		<li>Thư mục <code>application/language</code>: chứa các tập tin ngôn ngữ</li>
-		<li>Thư mục <code>application/libraries</code>: chứa thư viện cho người dùng dùng định nghĩa</li>
-		<li>Thư mục <code>application/models</code>: chứa các lớp model</li>
+		<li>Thư mục <code></code>: chứa các lớp controller</li>
+		<li>Thư mục <code></code>: chứa các tập tin lỗi</li>
+		<li>Thư mục <code></code>: chứa các hàm tiện ích do người dùng định nghĩa</li>
+		<li>Thư mục <code></code>: chứa các tập tin để mở rộng mã nguồn CodeIgniter</li>
+		<li>Thư mục <code></code>: chứa các tập tin ngôn ngữ</li>
+		<li>Thư mục <code></code>: chứa thư viện cho người dùng dùng định nghĩa</li>
+		<li>Thư mục <code></code>: chứa các lớp model</li>
 		<li>Thư mục <code>/style</code>: chứa các file css<br>
 		Ta cũng có thể đổi tên của thư mục application tùy ý. Sau khi đổi tên, cần thiết lập tên mới cho biến <strong>$application_folder</strong> trong tập tin index.php</li>
 	</ul>
@@ -58,6 +58,11 @@ Các yêu cầu của khách hàng về hệ thống là :
 	<blockquote>
 	<p>Website đựng xây dựng bằng ngôn ngữ lập trình <strong>PHP</strong> sử dụng hệ quản trị CSDL <strong>MySQL</strong>.</p>
 	</blockquote>
+	<p>
+			<img src="http://php.net/images/logos/php-logo.svg" width="10%">
+			<img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" width="10%">
+		</p>
+
 
 <h1>Tài liệu hướng dẫn sử dụng </h1>
 <!--  -->
@@ -74,7 +79,8 @@ Các yêu cầu của khách hàng về hệ thống là :
 <h1>Tài liệu thiết kế</h1>
 <!--  -->
 <p>
-Tài liệu thiết kế : <a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
+Tài liệu thiết kế :
+<a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
   <p>  <a href="https://www.w3schools.com/pHp/default.asp" target="_blank">Xem tại đây</a>.
 	</p>
  
