@@ -58,7 +58,7 @@ Các yêu cầu của khách hàng về hệ thống là :
 	<blockquote>
 	<p>Website đựng xây dựng bằng ngôn ngữ lập trình <strong>PHP</strong> sử dụng hệ quản trị CSDL <strong>MySQL</strong>.</p>
 	</blockquote>
-	<p>
+	<p=align="center">
 			<img src="http://php.net/images/logos/php-logo.svg" width="10%">
 			<img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" width="10%">
 		</p>
@@ -79,8 +79,8 @@ Các yêu cầu của khách hàng về hệ thống là :
 <h1>Tài liệu thiết kế</h1>
 <!--  -->
 <p>
-Tài liệu thiết kế :
-<a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
+Tài liệu thiết kế :</p>
+<p><a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
   <p>  <a href="https://www.w3schools.com/pHp/default.asp" target="_blank">Xem tại đây</a>.
 	</p>
  
