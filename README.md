@@ -44,7 +44,7 @@ Các yêu cầu của khách hàng về hệ thống là :
 		Được xây dựng thiết kế theo mô hình 3 layer, nó giúp cho việc thiết kế, xử lý và bảo trì mã nguồn dễ dàng, đồng thời tăng khả năng mở rộng của phần mềm<a target="_blank" href="https://techtalk.vn/mo-hinh-3-lop-co-gi-hay.html">. Tìm hiểu mô hình 3 layer trong PHP?</a> Ngoài ra, vận dụng mô hình này trong thiết kế, giúp tách biệt các tập tin giao diện với các tập tin xử lý dữ liệu, nâng cao khả năng quản lý và dễ bảo trì.
 	</p>
 	<p>Tập tin index.php tiếp nhận các yêu cầu từ phía client và chuyển các yêu cầu này cho hệ thống xử lý.</p>
-	<p align="center"><img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/tochu.png"></p>
+	<p align="center"><img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/toch.png"></p>
 	<ul>
 		<li>Thư mục <code>modules</code>: Dành cho lập trình viên, các tập tin được lập trình cho ứng dụng sẽ lưu trong thư mục này.</li>
 		<li>Thư mục <code>modules/config.php</code>: Chứa các tập tin cấu hình hệ thống</li>
