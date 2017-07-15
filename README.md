@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <p align="center">
     <img alt="BookStore" src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/logo.png" width="150%" height="150"/>
 
@@ -91,7 +92,7 @@ Tài liệu thiết kế :</p>
 	</p>
 	<p>  <a href="https://www.youtube.com/watch?v=aOSpudVe9Ps&list=PLXyzLrbmN3ZCnsHw11tbm-G9NR2dEqMKY"  target="_blank">Xem tại đây</a>.</p>
  
-<h1>Danh sách lỗi</h1>
+<h1><i class="fa fa-envelope" style="font-size:36px"></i> &nbsp;Danh sách lỗi</h1>
 <!--  -->
 <p>Bạn có thể tham gia đóng góp, báo lỗi, tìm hiểu thêm thông tin <a href="https://github.com/LapTrinhPHP-QLS/CHS/issues/new" target="_blank">tại đây.</a></p> 
 
