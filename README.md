@@ -48,14 +48,15 @@ Các yêu cầu của khách hàng về hệ thống là :
 	<ul>
 		<li>Thư mục <code>modules</code>: Dành cho lập trình viên, các tập tin được lập trình cho ứng dụng sẽ lưu trong thư mục này.</li>
 		<li>Thư mục <code>modules/config.php</code>: Chứa các tập tin cấu hình hệ thống</li>
-		<li>Thư mục <code></code>: chứa các lớp controller</li>
-		<li>Thư mục <code></code>: chứa các tập tin lỗi</li>
-		<li>Thư mục <code></code>: chứa các hàm tiện ích do người dùng định nghĩa</li>
-		<li>Thư mục <code></code>: chứa các tập tin để mở rộng mã nguồn CodeIgniter</li>
-		<li>Thư mục <code></code>: chứa các tập tin ngôn ngữ</li>
-		<li>Thư mục <code></code>: chứa thư viện cho người dùng dùng định nghĩa</li>
-		<li>Thư mục <code></code>: chứa các lớp model</li>
+		<li>Thư mục <code>modules/header.php</code>: Hiển thị logo và môt số thông tin như: ngày giờ, giỏ hàng, tạo tài khoản</li>
+		<li>Thư mục <code>modules/footer.php</code>: Phần chân trang của website</li>
+		<li>Thư mục <code>modules/content.php</code>: Khu vực hiển thị nội dung bên trái và bên phải.</li>
+		<li>Thư mục <code>modules/content.php</code>: chứa các tập tin ngôn ngữ</li>
+		<li>Thư mục <code>modules/menu.php</code>:Khu vực hiển thị thanh menu </li>
+		<li>Thư mục <code>modules/left</code>: chứa các tập tin menu bên trái của website</li>
+		<li>Thư mục <code>modules/right</code>: chứa các tập tin chi tiết  website</li>
 		<li>Thư mục <code>/style</code>: chứa các file css<br>
+		<li>Thư mục <code>admincp/modules/quanly</code>: chứa các tập tin chi tiết  website</li>
 		Ta cũng có thể đổi tên của thư mục application tùy ý. Sau khi đổi tên, cần thiết lập tên mới cho biến <strong>$application_folder</strong> trong tập tin index.php</li>
 	</ul>
 
