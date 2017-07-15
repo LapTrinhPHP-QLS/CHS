@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="BookStore" src="https://static1.squarespace.com/static/513e45cee4b022a7a496df13/t/52151f40e4b0aa8504d31056/1432709894112/Connection+BookStore+Logo.jpg?format=500w" width="400" />
+    <img alt="BookStore" src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/logo.png" width="400"/>
 
 </p>                                                                          
 																			          <h1 align="center">  Website Cửa Hàng Sách </h1>
