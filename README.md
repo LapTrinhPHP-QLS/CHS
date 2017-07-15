@@ -80,9 +80,10 @@ Các yêu cầu của khách hàng về hệ thống là :
 <!--  -->
 <p>
 Tài liệu thiết kế :</p>
-<p><a href="https://www.tutorialspoint.com/php/" target="_blank">Xem tại đây</a>.</p>
-  <p>  <a href="https://www.w3schools.com/pHp/default.asp" target="_blank">Xem tại đây</a>.
+<p><a href="https://www.tutorialspoint.com/php/" target="_blank">PHP Tutorial</a>.</p>
+  <p>  <a href="https://www.w3schools.com/pHp/default.asp" target="_blank">w3schools</a>.
 	</p>
+	<p>  <a href="https://www.youtube.com/watch?v=aOSpudVe9Ps&list=PLXyzLrbmN3ZCnsHw11tbm-G9NR2dEqMKY"  target="_blank">Xem tại đây</a>.</p>
  
 <h1>Danh sách lỗi</h1>
 <!--  -->
