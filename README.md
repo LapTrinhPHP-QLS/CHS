@@ -87,6 +87,8 @@ Tài liệu thiết kế :</p>
  
 <h1>Danh sách lỗi</h1>
 <!--  -->
+<p>Bạn có thể tham gia đóng góp, báo lỗi, tìm hiểu thêm thông tin <a href="https://github.com/LapTrinhPHP-QLS/CHS/issues/new" target="_blank">tại đây.</a>.</p> 
+
 <h1>Danh cho cộng tác viên</h1>
 <p>Cộng tác viên muốn đóng góp và tham gia phát triển website có thể liên hệ trực tiếp với nhóm tác giả để được hướng dẫn cụ thể.</p>
 
