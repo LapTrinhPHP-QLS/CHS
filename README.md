@@ -67,7 +67,7 @@ Các yêu cầu của khách hàng về hệ thống là :
 <h1>Tài liệu hướng dẫn sử dụng </h1>
 <!--  -->
 <p>
-		Tài liệu hướng dẫn của người dùng. <a href="" target="_blank">Xem tại đây</a>.
+		Tài liệu hướng dẫn của người dùng. <a href="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/HuongDanNguoiSuDung.md" target="_blank">Xem tại đây</a>.
 	</p>
 
 <h1>Tài liệu cho nhà phát triển</h1>
