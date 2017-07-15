@@ -27,6 +27,10 @@ Các yêu cầu của khách hàng về hệ thống là :
 
 <h1>Giấy phép</h1>
 <!--  -->
+<p>
+		<a href="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/LICENSE.md">MIT License</a> Copyright &copy; 2017 BookStore.vn
+	</p>
+
 <h1>Tổ chức mã nguồn</h1>
 <!--  -->
 <h1>Ngôn ngữ lập trình</h1>
