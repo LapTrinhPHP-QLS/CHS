@@ -24,7 +24,12 @@ Các yêu cầu của khách hàng về hệ thống là :
 + Phù hợp mục đích của người dùng , phù hợp với trình độ của người dùng,ai cũng có thể dùng được. Đồng thời phải ổn định chắc chắn có khả năng cung cấp thông tin đáp ứng khi cần thiết. Dễ dàng bảo hành, cải tiến , nhanh chóng chỉ ra những lỗi cần điều chỉnh.
 
 + Giao diện dễ nhìn phù hợp với không gian làm việc.Các yêu cầu về kỹ thuật phải xử lý chính xác , nếu không sẽ gây ảnh hưởng đến uy tín chất lượng của nhà sách.
-
+<h1>Tác giả</h1>
+<!--  -->
+<ul>
+<li>Tác Giả: Trần Ngọc Nam - Kho dữ liệu đóng góp <a href="https://github.com/LapTrinhPHP-QLS/CHS/tree/Tr%E1%BA%A7n-Ngoc-Nam"  target="_blank">Xem tại đây.</a></li>
+<li>Tác Giả: Lê Cao Diễm Quyên - Kho dữ liệu đóng góp <a href="https://github.com/LapTrinhPHP-QLS/CHS/tree/L%C3%AA-Cao-Di%E1%BB%85m-Quy%C3%AAn"  target="_blank">Xem tại đây.</a></li>
+</ul>
 <h1>Giấy phép</h1>
 <!--  -->
 <p>
