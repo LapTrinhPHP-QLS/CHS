@@ -19,5 +19,5 @@
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/ql.png"  width="150%">
 <p>5. Tổ chức mã nguồn </p>
  <p align="center">
-			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/tochuc.png"  width="80%">
+			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/toch.png"  width="80%">
 
