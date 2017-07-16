@@ -107,3 +107,4 @@ Tài liệu thiết kế :</p>
 <h1>Danh cho cộng tác viên</h1>
 <p>Cộng tác viên muốn đóng góp và tham gia phát triển website có thể liên hệ trực tiếp với nhóm tác giả để được hướng dẫn cụ thể.</p>
 
+<h1>Page: https://www.facebook.com/IshiiEric/</h1>
