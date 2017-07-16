@@ -109,7 +109,7 @@ Tài liệu thiết kế :</p>
 
 <h1>Page</h1>
 <!--  -->
-<p> <a href=" https://www.facebook.com/IshiiEric/" target="_blank">Xem tại đây.</a></p>
+<p> <a href="https://www.facebook.com/IshiiEric/" target="_blank">Xem tại đây.</a></p>
 <h1>Phiên bản và phát triển phiên bản</h1>
 <p>Phiên bản đầu tiên của website là BookStore 1.0 ( gọi tắt BS 1.0)</p>
 <p>Hiện tại trong tương lai chúng tôi dự định sẽ phát triển tiếp tục mở rộng các chức năng với phiên bản BookStore 2.0 (gọi tắt  BS 2.0)</p>
