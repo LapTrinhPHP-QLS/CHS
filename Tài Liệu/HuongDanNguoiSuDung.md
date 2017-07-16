@@ -18,7 +18,7 @@
 <p>Mật khẩu: admin</p>
 
 <p align="center">
-			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/ql.png"  width="150%">
+			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/dn.png"  width="100%">
 <p>Giao diện trang quản trị<p>
 <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/admin.png"  width="100%">
