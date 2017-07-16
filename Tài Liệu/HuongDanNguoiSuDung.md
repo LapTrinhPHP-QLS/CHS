@@ -19,9 +19,13 @@
 
 <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/ql.png"  width="150%">
-<p>Giao diện trang quan trị<p>
+<p>Giao diện trang quản trị<p>
 <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/admin.png"  width="100%">
+<p>Giao diện trang người dùng<p>
+<p align="center">
+			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/member.png"  width="100%">
+			
 <p>5. Tổ chức mã nguồn </p>
  <p align="center">
 			<img src="https://github.com/LapTrinhPHP-QLS/CHS/blob/master/T%C3%A0i%20Li%E1%BB%87u/images/toch.png"  width="80%">
