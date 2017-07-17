@@ -51,7 +51,6 @@ Các yêu cầu của khách hàng về hệ thống là :
 		<li>Thư mục <code>modules/header.php</code>: Hiển thị logo và môt số thông tin như: ngày giờ, giỏ hàng, tạo tài khoản</li>
 		<li>Thư mục <code>modules/footer.php</code>: Phần chân trang của website</li>
 		<li>Thư mục <code>modules/content.php</code>: Khu vực hiển thị nội dung bên trái và bên phải.</li>
-		<li>Thư mục <code>modules/content.php</code>: chứa các tập tin ngôn ngữ</li>
 		<li>Thư mục <code>modules/menu.php</code>:Khu vực hiển thị thanh menu </li>
 		<li>Thư mục <code>modules/left</code>: chứa các tập tin menu bên trái của website</li>
 		<li>Thư mục <code>modules/right</code>: chứa các tập tin chi tiết  website</li>
