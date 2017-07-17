@@ -110,5 +110,5 @@ Tài liệu thiết kế :</p>
 <!--  -->
 <p> <a href="https://www.facebook.com/IshiiEric/" target="_blank">Xem tại đây.</a></p>
 <h1>Phiên bản và phát triển phiên bản</h1>
-<p>Phiên bản đầu tiên của website là <a href="https://github.com/LapTrinhPHP-QLS/CHS/releases/tag/V1.0 BookStore 1.0"  target="_blank"> ( gọi tắt BS 1.0) </a></p>
+<p>Phiên bản đầu tiên của website là <a href="https://github.com/LapTrinhPHP-QLS/CHS/releases/tag/V1.0"  target="_blank"> BookStore 1.0 </a>( gọi tắt BS 1.0) </a></p>
 <p>Hiện tại trong tương lai chúng tôi dự định sẽ phát triển tiếp tục mở rộng các chức năng với phiên bản BookStore 2.0 (gọi tắt  BS 2.0)</p>
